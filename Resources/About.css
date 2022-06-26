@@ -1,0 +1,113 @@
+html, body{
+    width: 100%;
+}
+main{
+    position: relative;
+}
+#nav{
+    padding-top: 30px;
+}
+.abs{
+    position: absolute;
+}
+#e2{
+    top: 0px;
+}
+#e3{
+    right: 0;
+    top: 2000px;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+main{
+    margin-top: 10%;
+    position: relative;
+}
+section{
+    margin: 70px 0px 70px 0px;
+}
+#nav>div>a{
+    margin: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+#sec1, #sec2{
+    padding: 50px 330px 50px 330px;
+}
+#sec1>h1{
+    margin-bottom: 50px;
+}
+#img1{
+    width: 440px;
+}
+#s1d2{
+    width: fit-content;
+    height: max-content;
+    background-color: rgba(83, 175, 164, 1);
+    padding: 40px 200px 50px 40px;
+    color: white;
+    position: absolute;
+    top: 220px;
+    left: 620px;
+    box-shadow: 20px -20px 0 -3px white, 20px -20px 0 0 rgba(241, 99, 42, 1);
+}
+#s1d2 p{
+    width: 300px;
+    font-size: 12px;
+}
+#yt{
+    width: 100%;
+    text-align: center;
+}
+iframe{
+    border-radius: 10px;
+}
+#sec3>div{
+    width: 30%;
+    display: inline-block;
+}
+#sec3 img{
+    border-radius: 50%;
+}
+footer{
+    background-color: rgba(5, 29, 51, 1);
+    color: white;
+    width: 100%;
+    padding: 50px;
+    position: relative;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+.width-70{
+    width: 70px;
+    margin: 10px 10px 10px 10px;
+}
+.width-50{
+    width: 50px;
+    margin: 10px 20px 10px 20px;
+}
+#foot-para{
+    width: 20%;
+    height: max-content;
+    border-bottom: 1px solid white;
+}
+#foot-links{
+    width: max-content;
+}
+#follow-links{
+    width: 40%;
+}
+#foot-links>a{
+    display: block;
+    margin-bottom: 10px;
+}
+#main-end img{
+    width: 200px;
+}

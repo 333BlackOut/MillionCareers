@@ -1,0 +1,127 @@
+html, body{
+    width: 100%;
+}
+main{
+    position: relative;
+}
+#nav{
+    width: 100%;
+    padding-top: 30px;
+}
+.abs{
+    position: absolute;
+}
+#e2{
+    top: 1100px;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+main{
+    margin-top: 10%;
+}
+section{
+    margin: 70px 0px 70px 0px;
+}
+#nav>div>a{
+    margin: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+header button{
+    margin-top: 20px;
+}
+header{
+    height: max-content;
+    margin-bottom: 50px;
+}
+.sec>img{
+    height: 40%;
+    display: inline-block;
+}
+.sec>div{
+    display: inline-block;
+    width: 30%;
+}
+.sec2>img{
+    height: 30%;
+    display: inline-block;
+}
+.sec2>div{
+    display: inline-block;
+    width: 50%;
+}
+#main3>div{
+    width: 75%;
+}
+#main3{
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+iframe{
+    border-radius: 10px;
+}
+#main4{
+    background: linear-gradient(to right bottom,rgba(255, 78, 80, 1),rgba(249, 212, 35, 1));
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 5%;
+    color: white;
+    padding: 70px;
+}
+#main4>div{
+    display: inline-block;
+    margin: 30px;
+}
+#main4 img{
+    width: 70%;
+}
+#main4 a{
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px white solid;
+}
+footer{
+    background-color: rgba(5, 29, 51, 1);
+    color: white;
+    width: 100%;
+    padding: 50px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+.width-70{
+    width: 70px;
+    margin: 10px 10px 10px 10px;
+}
+.width-50{
+    width: 50px;
+    margin: 10px 20px 10px 20px;
+}
+#foot-para{
+    width: 20%;
+    height: max-content;
+    border-bottom: 1px solid white;
+}
+#foot-links{
+    width: max-content;
+}
+#follow-links{
+    width: 40%;
+}
+#foot-links>a{
+    display: block;
+    margin-bottom: 10px;
+}
+#main-end img{
+    width: 200px;
+}

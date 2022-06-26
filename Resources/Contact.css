@@ -1,0 +1,115 @@
+html, body{
+    width: 100%;
+}
+main{
+    position: relative;
+}
+#nav{
+    padding-top: 30px;
+}
+.abs{
+    position: absolute;
+}
+#e2{
+    top: 0px;
+}
+#e3{
+    right: 0;
+    top: 2000px;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+main{
+    margin-top: 10%;
+    position: relative;
+}
+section{
+    margin: 150px 0px 150px 0px;
+}
+#nav>div>a{
+    margin: 0px 20px 0px 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+footer{
+    background-color: rgba(5, 29, 51, 1);
+    color: white;
+    width: 100%;
+    padding: 50px;
+    position: relative;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+.width-70{
+    width: 70px;
+    margin: 10px 10px 10px 10px;
+}
+.width-50{
+    width: 50px;
+    margin: 10px 20px 10px 20px;
+}
+form{
+    width: 70%;
+    float: left;
+}
+input, textarea{
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid lightgrey;
+}
+#Email, #Num{
+    width: 44%;
+    display: inline-block;
+}
+#space1{
+    width: 11%;
+    display: inline-block;
+}
+label{
+    margin-top: 30px;
+}
+form button{
+    color: white;
+    background-color: rgba(5, 29, 51, 1);
+    padding: 5px 100px 5px 100px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+}
+#contact{
+    width: 20%;
+    float: right;
+}
+#contact p{
+    color: grey;
+}
+
+#foot-para{
+    width: 20%;
+    height: max-content;
+    border-bottom: 1px solid white;
+}
+#foot-links{
+    width: max-content;
+}
+#follow-links{
+    width: 40%;
+}
+#foot-links>a{
+    display: block;
+    margin-bottom: 10px;
+}
+#main-end img{
+    width: 200px;
+}
+#main-end{
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
